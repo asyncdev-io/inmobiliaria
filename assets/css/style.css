@@ -673,6 +673,7 @@
 	position:relative;
 	margin-top:15px;
 	text-transform:uppercase;
+	color:var(--main-color);
 }
 
 .city-block_one-heading a{
